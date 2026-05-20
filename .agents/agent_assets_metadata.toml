@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "uPVU81tk_4m0Cs4ywAdqD"
+uri = "file://attached_assets/generated_images/a_lone_photographer_standing_d980.png"
+type = "image"
+title = "generated_image"
